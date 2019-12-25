@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="cone" version="3.0" targetId="f0db6764e1574eb78bcd998f2550a3d4" sideLength="5.500000" topDiameter="2.000000" bottomDiameter="2.000000" sideImage="cone.Body_scaled.jpg" topImage="cone.Top_scaled.jpg" bottomImage="cone.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
